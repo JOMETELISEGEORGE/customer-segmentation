@@ -1,1 +1,1 @@
-# customor-segmentation
+# customer-segmentation
